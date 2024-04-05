@@ -1,5 +1,14 @@
 # Nitrogen6_SoloX Platform
 
+## Subpages
+
+```{toctree}
+:maxdepth: 1
+debugging_jtag
+drivers
+```
+
+
 ## Board Setup
 
 To connect the board to the development PC, the following

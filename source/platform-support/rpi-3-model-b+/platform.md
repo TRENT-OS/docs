@@ -7,6 +7,16 @@ the 32-bit mode.
 All given information should also be applicable to the Raspberry Pi 3
 Model B, but this has not been tested.
 
+
+## Subpages
+
+```{toctree}
+:maxdepth: 1
+debugging_jtag
+drivers
+```
+
+
 ## Boot Mode
 
 In general, the RPi3B+ offers different boot modes (see

@@ -3,6 +3,14 @@
 The following sections will provide all information required to
 successfully boot a TRENTOS system image on the BD-SL-i.MX6.
 
+## Subpages
+
+```{toctree}
+:maxdepth: 1
+debugging_jtag
+drivers
+```
+
 ## Board Setup
 
 To connect the board to the development PC, the following cabling/tooling is

@@ -68,14 +68,8 @@ component-interfaces/socket-interface
 
 platform-support/using-sd-card-with-trentos
 platform-support/rpi-3-model-b+/platform
-platform-support/rpi-3-model-b+/debugging_jtag
-platform-support/rpi-3-model-b+/drivers
 platform-support/nitrogen6-solo-x/platform
-platform-support/nitrogen6-solo-x/debugging_jtag
-platform-support/nitrogen6-solo-x/drivers
 platform-support/bd-sl-i.mx6/platform
-platform-support/bd-sl-i.mx6/debugging_jtag
-platform-support/bd-sl-i.mx6/drivers
 ```
 
 ```{toctree}

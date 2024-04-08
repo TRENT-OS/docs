@@ -4,6 +4,12 @@
 
 This repository contains the documentation for the TRENTOS SDK.
 
+## Dependencies 
+
+```sh
+pip install myst_parser sphinx_copybutton sphinx_immaterial sphinxcontrib.mermaid
+```
+
 ## Building procedure
 
 To build the documentation as HTML run:

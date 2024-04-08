@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "TRENTOS"
-copyright = "2023, HENSOLDT Cyber GmbH"
+copyright = "2023-2024, HENSOLDT Cyber GmbH"
 author = "HENSOLDT Cyber GmbH"
 release = "2023"
 
@@ -38,7 +38,7 @@ html_logo = "_static/MC_Produkt_Logo_Trentos_gray.png"
 
 
 html_theme_options = {
-    "repo_url": "https://github.com/seL4/seL4",
+    "repo_url": "https://github.com/TRENT-OS/trentos",
     "icon": {
         "repo": "fontawesome/brands/github",
         "edit": "material/file-edit-outline",

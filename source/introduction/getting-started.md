@@ -1,5 +1,16 @@
 # Getting Started
 
+```
+########################################################
+#               DEPRECATION WARNING                    #
+# This section of the TRENTOS documentation is out of  # 
+# sync and may contain no longer relevant information. #
+########################################################
+```
+
+Until this section is updated please refer to [TRENTOS README](https://github.com/TRENT-OS/trentos/blob/integration/README.md)
+
+
 ## Scope
 
 This Getting Started will provide guidance for the first steps

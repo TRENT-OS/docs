@@ -106,6 +106,7 @@ development/runtime-debugging/runtime-debugging
 development/runtime-debugging/debugging-qemu
 development/runtime-debugging/debugging-hw-platforms_open-ocd
 development/runtime-debugging/debugging-hw-platforms_segger
+development/object-oriented-c
 ```
 
 ```{toctree}

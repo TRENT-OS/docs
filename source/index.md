@@ -23,6 +23,7 @@ introduction/camkes
 
 api/cert-parser_api
 api/config-service_api
+api/configuration_service_api
 api/crypto_api
 api/file-system_api
 api/key-store_api

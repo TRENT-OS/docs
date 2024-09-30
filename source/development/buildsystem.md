@@ -6,7 +6,7 @@ The TRENTOS build system uses CMake/ninja and is based on the
 seL4/CAmkES build system. For certain parameters, e.g. the supported
 platform or specific build variants, the seL4 and CAmkES documentation
 must be consulted. The master build script is build-system.sh (residing
-within the **`<sdk_root_directory>/sdk`** folder), which supports an
+within the **`trentos/sdk`** folder), which supports an
 out-of-source build for arbitrary OS projects. The script is designed to
 be started from an arbitrary directory, there is no requirement that it
 must be executed inside the SDK folder itself.
@@ -14,7 +14,7 @@ must be executed inside the SDK folder itself.
 This script must be invoked as
 
 ```bash
-<SDK>/build-system.sh
+trentos/sdk/build-system.sh
              <OS_PROJECT_DIR>
              <BUILD_PLATFORM>
              <BUILD_DIR>

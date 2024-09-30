@@ -1,5 +1,16 @@
 # Runtime Debugging
 
+## Subpages
+
+```{toctree}
+:caption: Subpages
+:maxdepth: 1
+
+debugging-qemu
+debugging-hw-platforms_open-ocd
+debugging-hw-platforms_segger
+```
+
 ## Introduction
 
 The purpose of this page is to give an overview of the current state of

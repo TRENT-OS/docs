@@ -71,6 +71,7 @@ platform-support/using-sd-card-with-trentos
 platform-support/rpi-3-model-b+/platform
 platform-support/nitrogen6-solo-x/platform
 platform-support/bd-sl-i.mx6/platform
+platform-support/nvidia-tegra/platform
 ```
 
 ```{toctree}

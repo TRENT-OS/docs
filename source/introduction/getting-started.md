@@ -388,9 +388,9 @@ This should result in the following output, especially the values in the column
 time delta since creation.
 
 ```console
-REPOSITORY     TAG         IMAGE ID            CREATED         SIZE
-trentos_test   20211025    22c346001223        6 days ago      2.39GB
-trentos_build  20210503    c4692fcdef46        6 months ago    7.79GB
+REPOSITORY                    TAG       IMAGE ID         CREATED         SIZE
+hensoldtcyber/trentos_test    latest    a8ce644de82c     3 weeks ago     1.79GB
+hensoldtcyber/trentos_build   latest    d3dffe4123e3     2 months ago    8.69GB
 ```
 
 ### Use the Docker Images
@@ -530,12 +530,7 @@ container and the container is removed once the script finishes. For the Hello
 World demo, this call looks like the following:
 
 ```bash
-sdk/scripts/open_trentos_build_env.sh \
-    sdk/build-system.sh \
-    sdk/demos/demo_hello_world \
-    zynq7000 \
-    build-zynq7000-Debug-demo_hello_world \
-    -DCMAKE_BUILD_TYPE=Debug
+trentos/sdk/scripts/open_trentos_build_env.sh trentos/build.sh demo_hello_world
 ```
 
 If the build is successful, the console produces the following output:
